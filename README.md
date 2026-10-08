@@ -10,7 +10,6 @@ Also, unlike Marketplace packs, instructions for each pack is not in-game. See t
 Note that Vibrant Visuals add-ons will not be in this library. Find them in the upcoming Minecraft Creator Platform!
 
 ## Coming soon
-- The Super Mario Galaxy Movie Add-on
 - Bicycling Pack
 - A Minecraft Movie Squared Abong Pack (Supports Vibrant Visuals!) [I may or may not add it]
 - Chiikawa The Movie: The Secret of the Mermaid Island Add-on
