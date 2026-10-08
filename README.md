@@ -14,3 +14,7 @@ Note that Vibrant Visuals add-ons will not be in this library. Find them in the 
 - A Minecraft Movie Squared Abong Pack (Supports Vibrant Visuals!) [I may or may not add it]
 - Chiikawa The Movie: The Secret of the Mermaid Island Add-on
 - Singapore National Day Party Supplies Add-on
+
+## Enjoyed my add-ons?
+Leave your thinking about my mods in the link! ;)
+https://forms.gle/2yT9JttA7jJGkntx7
